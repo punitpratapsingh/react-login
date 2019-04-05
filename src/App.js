@@ -20,8 +20,6 @@ class App extends Component {
 					<Col md={4} sm={3} xs={2}></Col>
 					<Col md={4} sm={6} xs={8}>
 						<p className='text-center'>
-							{/* <h2 className='logo-text'>Social App</h2> */}
-							
 						</p>
 						<section className='admin-login' id='admin-login'>
 							<Form>
